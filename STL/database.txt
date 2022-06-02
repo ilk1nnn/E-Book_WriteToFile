@@ -1,0 +1,35 @@
+  -About Admin-
+
+  Admins count --> 1
+  admin'ID --> 1002
+  admin'name --> Elvin Camalzade
+
+
+
+  -About Client-
+
+  Clients count --> 1
+  client'ID --> 1005
+  client'name --> Ali Ahmedov
+
+  Book ID : 1007
+  Title : Nutshel
+  Author : Albahari
+  Price : 34$
+  Rating : 9.8*
+
+
+  Book ID : 1008
+  Title : Animal Farm
+  Author : George Orvel
+  Price : 12$
+  Rating : 7.9*
+
+
+  Book ID : 1009
+  Title : Tom Sawyer adventures
+  Author : Mark Twen
+  Price : 3.4$
+  Rating : 8*
+
+
